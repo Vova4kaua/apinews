@@ -10,7 +10,7 @@ from aiogram.utils.executor import start_polling
 import uvicorn
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ТГ_БОТА"  # ВСТАВЬ сюда свой токен
+BOT_TOKEN = "7630606406:AAEMKEdkhkYuayA_IPab8vIWMqczNCLuaX4"  # ВСТАВЬ сюда свой токен
 APP_ENDPOINT = "https://myapp.onrender.com/api/news"  # Сюда отправлять данные
 
 # === ЛОГИ ===

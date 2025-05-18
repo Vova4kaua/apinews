@@ -11,7 +11,7 @@ import uvicorn
 
 # === НАСТРОЙКИ ===
 BOT_TOKEN = "7630606406:AAEMKEdkhkYuayA_IPab8vIWMqczNCLuaX4"  # ВСТАВЬ сюда свой токен
-APP_ENDPOINT = "https://myapp.onrender.com/api/news"  # Сюда отправлять данные
+APP_ENDPOINT = "https://apinews-tu0r.onrender.com/api/news"  # Сюда отправлять данные
 
 # === ЛОГИ ===
 logging.basicConfig(level=logging.INFO)
